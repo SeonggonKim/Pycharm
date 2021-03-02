@@ -1,2 +1,2 @@
-# Pycharm
-Pycharm with Inflearn &amp; Youtube
+# Pycharm Study
+Pycharm Study with Inflearn &amp; Youtube
